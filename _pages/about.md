@@ -26,5 +26,16 @@ Currently I am focused on the use of machine learning in accelerated taxonomy to
 
 ---
 
-I am also an amateur photographer. Mainly taking analogue photos on a Canon A1.
-I find the limitations of the analogue format require a more deliberate and thoughtful approach wich I enjoy. 
+<b>Royal Holloway:</b> Alongside my PhD I am also teaching at Royal Holloway, as a lab assisstant. I am currently teaching cs5950: Deep Learning.  
+
+---
+
+<b>Kew Gardens:</b> I am working with kew Gardens as a part of my PhD to improve the efficiency of the identification of herbarium samples.
+This project is part of a larger effort across the Natural Sciences to use machine learning to bridge the taxonomical gap.  
+
+---
+
+<b>Photography</b> I am also an amateur photographer. Mainly taking analogue photos on a Canon A1.
+I find the limitations of the analogue format require a more deliberate and thoughtful approach which I enjoy. 
+
+---

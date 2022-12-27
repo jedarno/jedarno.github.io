@@ -1,18 +1,18 @@
 ---
 layout: page
 title: Edinburgh
-description: Some pictures I took on a trup to Edingburgh. All photos were taken using a Canon A1 with Sierra 100 ISO film.
+description: Some pictures I took on a trip to Edinburgh. All photos were taken using a Canon A1 with Sierra 100 ISO film.
 img: assets/img/edi/edi00007.jpg
 importance: 1
 category: Canon A1 35mm
 ---
 <p>
-This project contains some of the photographs taken during my trip to Edinburgh to see a friend who went university there.
+This project contains some of the photographs taken during my trip to Edinburgh to see a friend who went to university there.
 The architecture in Edinburgh is stunning and can be divided into two categories: the Old Town, and the New Town. 
 
 </p>
 <p>
-Buildings in the Old Town can date back to the mediebal Era whereas the New Town is mostly Georgian and Neoclassical.
+Buildings in the Old Town can date back to the medieval Era whereas the New Town is mostly Georgian and Neoclassical.
 This divide was caused by a rapid population growth in the 18th century, overtaking Glasgow as the most populous city in Scotland. The resulting overcrowding of the Old Town lead to the New Town being built between 1767 and 1850.
 </p>
 
