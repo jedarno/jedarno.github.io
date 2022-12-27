@@ -2,7 +2,7 @@
 layout: page
 title: Edinburgh
 description: Some pictures I took on a trup to Edingburgh. All photos were taken using a Canon A1 with Sierra 100 ISO film.
-img: assets/img/edi/edi00014.jpg
+img: assets/img/edi/edi00007.jpg
 importance: 1
 category: Canon A1 35mm
 ---

@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /repositories/
-title: Repositories
+title: repositories
 description: A few public projects from my github.
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 {% if site.data.repositories.github_repos %}

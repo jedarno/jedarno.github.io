@@ -3,7 +3,7 @@ layout: page
 title: photography
 permalink: /photography/
 description: An incomplete collection of the photography projects I've undertaken. Most are shot on 35mm flim. 
-nav: true
+nav: false
 nav_order: 3
 display_categories: [Canon A1 35mm]
 horizontal: false
