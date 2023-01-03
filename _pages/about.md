@@ -26,12 +26,11 @@ Currently I am focused on the use of machine learning in accelerated taxonomy to
 
 ---
 
-<b>Royal Holloway:</b> Alongside my PhD I am also teaching at Royal Holloway, as a lab assisstant. I am currently teaching cs5950: Deep Learning.  
+<b>Royal Holloway:</b> Alongside my PhD I am also teaching at Royal Holloway, as a lab assisstant. I am currently teaching cs5950: Deep Learning and cs2910: Symbolic Artificial Intelligence.
 
 ---
 
-<b>Kew Gardens:</b> I am working with kew Gardens as a part of my PhD to improve the efficiency of the identification of herbarium samples.
-This project is part of a larger effort across the Natural Sciences to use machine learning to bridge the taxonomical gap.  
+<b>Kew Gardens:</b> As part of my PhD I am working with the accelerated taxonomy department at Kew Gardens on theidentification of herbarium samples.
 
 ---
 
